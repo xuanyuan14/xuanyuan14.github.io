@@ -44,8 +44,8 @@ Publications
 
 | **Pre-training Methods in Information Retrieval.**|  
 | :------ |  
-| Yixing Fan, Xiaohui Xie, Yinqiong Cai, ***Jia Chen***, Xinyu Ma, Xiangsheng Li, Ruqing Zhang, Jiafeng Guo, Yiqun Liu. |  
-| ArXiv. [Preprint Version](https://arxiv.org/pdf/2111.13853)|   
+| Yixing Fan, Xiaohui Xie, Yinqiong Cai, ***Jia Chen***, Xinyu Ma, Xiangsheng Li, Ruqing Zhang, Jiafeng Guo. |  
+| FnTIR. [Preprint Version](https://arxiv.org/pdf/2111.13853)|   
 
 | **Incorporating Query Reformulating Behavior into Web Search Evaluation.**|
 | :------ |  
@@ -102,7 +102,8 @@ Honor and Awards
 
 | Year | Honor & Awards |
 | :------ | :------ | 
-| *2021* | Overall Excellence Scholarship (First Prize), Tsinghua University. (**Top 3%**)|
+| *2022* | Overall Excellence Scholarship (First Prize), Tsinghua University. (**Top 5%**)|
+| *2021* | Overall Excellence Scholarship (First Prize), Tsinghua University. (**Top 5%**)|
 | *2021* | Social Work Excellence Scholarship, Tsinghua University.|
 | *2020* | VMware Scholarship, DCST, Tsinghua University. (**Top 5%**)|
 | *2019* | Overall Excellence Scholarship (Second Prize), Tsinghua University. (**Top 10%**)| 
