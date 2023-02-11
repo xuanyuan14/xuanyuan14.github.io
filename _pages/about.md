@@ -122,7 +122,8 @@ Honor and Awards
 | *2015* | Merit Student, Beijing.|
 
 More
-======
+======  
+During 2022-2023, I have received special offers from Kwai (快star), Baidu (Aidu), Tencent (技术大咖), Xiaohongshu (RedStar). As a result, I will be working at Xiaohongshu (Xingin Information Technology Beijing Co, Ltd) from July 2023!  
 My hobbies mainly focus on popular music, comic and animation.  
 No music, no life! 🤠🎵🎶  
 Everybody loves Misaka Mikoto! ⚡️
