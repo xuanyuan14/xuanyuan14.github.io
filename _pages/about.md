@@ -31,6 +31,11 @@ Experience
 
 Publications
 ======
+| **THUIR at WSDM Cup 2023 Task 1: Unbiased Learning to Rank.**|  
+| :------ |  
+| ***Jia Chen***, Haitao Li, Weihang Su, Qingyao Ai, Yiqun Liu. |  
+| WSDM Cup 2023 (2/187 Teams). [Preprint Version](https://xuanyuan14.github.io/files/WSDM-Cup-23.pdf)| 
+
 
 | **Axiomatically Regularized Pre-training for Ad hoc Search.**|  
 | :------ |  
