@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am now a fifth year Ph.D. student in [THUIR](http://www.thuir.cn/), Department of Computer Science and Technology in Tsinghua University, Beijing, China. My supervisor is Prof. [Yiqun Liu](http://www.thuir.cn/group/~YQLiu/). My major research interests are about session search, user intent modeling and etc.
+I am now a fifth year Ph.D. student at [THUIR](http://www.thuir.cn/), Department of Computer Science and Technology in Tsinghua University, Beijing, China. My supervisor is Prof. [Yiqun Liu](http://www.thuir.cn/group/~YQLiu/). My major research interests are about interactive search, pre-trained language models, and etc. I have served as a PC member for top-tier IR/NLP conferences such as SIGIR, ACL, WSDM, EMNLP, COLING and so on.
 
 Education
 ======
