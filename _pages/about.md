@@ -35,7 +35,7 @@ Publications
 | **THUIR at WSDM Cup 2023 Task 1: Unbiased Learning to Rank.**|   
 | :------ |   
 | ***Jia Chen***, Haitao Li, Weihang Su, Qingyao Ai, Yiqun Liu. |  
-| WSDM Cup 2023 Task 1 (2/187 Teams). [Preprint Version](https://xuanyuan14.github.io/files/WSDM-Cup-23.pdf). [Certificate](https://xuanyuan14.github.io/files/WSDM Cup Second Prize.pdf).|  
+| WSDM Cup 2023 Task 1 (2/187 Teams). [Preprint Version](https://xuanyuan14.github.io/files/WSDM-Cup-23.pdf). [Certificate](https://xuanyuan14.github.io/files/WSDM_Cup_Second_Prize.pdf).|  
 
 | **Towards Better Web Search Performance: Pre-training, Fine-tuning and Learning to Rank.**|   
 | :------ |   
