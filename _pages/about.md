@@ -8,21 +8,22 @@ redirect_from:
   - /about.html
 ---
 
-I am now a fifth year Ph.D. student at [THUIR](http://www.thuir.cn/), Department of Computer Science and Technology in Tsinghua University, Beijing, China. My supervisor is Prof. [Yiqun Liu](http://www.thuir.cn/group/~YQLiu/). My major research interests are about interactive search, pre-trained language models, and etc. I have served as a PC member for top-tier IR/NLP conferences and journals such as SIGIR, ACL, WSDM, TOIS, EMNLP, COLING and so on.
+I am now a search algorithm engineer at Xiaohongshu (Beijing). Before that, I received my Ph.D. degree from [THUIR](http://www.thuir.cn/), Department of Computer Science and Technology in Tsinghua University, under the supervision of Prof. [Yiqun Liu](http://www.thuir.cn/group/~YQLiu/). My major research interests are about interactive search, pre-trained language models, and etc. I have also served as a PC member for top-tier IR/NLP conferences/journals such as SIGIR, ACL, WSDM, TOIS, EMNLP, COLING and so on.
 
 Education
 ======
 
 | Year | Education |
 | :------ | :------ | 
-| *08.2018-present* | Ph.D. student, Department of Computer Science and Technology, Tsinghua University, China. |
+| *08.2018-06.2023 | Ph.D., Department of Computer Science and Technology, Tsinghua University, China. |
 | *09.2014-06.2018* | B.E., School of Computer Science, Beijing University of Posts and Telecommunications, China. |
 
 Experience
 ======
 
 | Year | Experience |
-| :------ | :------ | 
+| :------ | :------ |  
+| *07.2023-present* | Xiaohongshu (Beijing), Community Search Division, Algorithm Engineer. |  
 | *06.2022-09.2022* | Alibaba Group (Hangzhou), Big Taobao Search Division, Internship. |
 | *04.2021-06.2022* | Main organizer of the [NTCIR-16 Session Search (SS) task](http://www.thuir.cn/session-search/).|
 | *06.2020-06.2021* | Chairman of Graduates Union, DCST, Tsinghua University, China.|
@@ -31,6 +32,11 @@ Experience
 
 Publications
 ======  
+
+| **SAILER: Structure-aware Pre-trained Language Model for Legal Case Retrieval.**|   
+| :------ |   
+| Haitao Li, Qingyao Ai, ***Jia Chen***, Qian Dong, Yueyue Wu, Yiqun Liu, Chong Chen, Qi Tian. |  
+| SIGIR 2023 (Full, , Acceptance Rate: 20.1%). [Preprint Version](https://arxiv.org/pdf/2304.11370). |  
 
 | **THUIR at WSDM Cup 2023 Task 1: Unbiased Learning to Rank.**|   
 | :------ |   
@@ -111,12 +117,12 @@ Honor and Awards
 ======
 
 | Year | Honor & Awards |
-| :------ | :------ | 
-| *2022* | Overall Excellence Scholarship (First Prize), Tsinghua University. (**Top 5%**)|
-| *2021* | Overall Excellence Scholarship (First Prize), Tsinghua University. (**Top 5%**)|
+| :------ | :------ |  
+| *2023* | Outstanding Graduate of Department of Computer Science and Technology, Tsinghua University.|  
+| *2020, 2021, 2022* | Overall Excellence Scholarship (First Prize), Tsinghua University.|  
+| *2022* | Longfor Academic Rising Star Scholarship, Tsinghua University.|  
 | *2021* | Social Work Excellence Scholarship, Tsinghua University.|
-| *2020* | VMware Scholarship, DCST, Tsinghua University. (**Top 5%**)|
-| *2019* | Overall Excellence Scholarship (Second Prize), Tsinghua University. (**Top 10%**)| 
+| *2019* | Overall Excellence Scholarship (Second Prize), Tsinghua University.| 
 | *2015, 2016, 2017* | National Scholarship ([2015 No.01214](http://www.moe.gov.cn/srcsite/A05/s7505/201601/t20160120_228481.html), [2016 No.01225](http://www.moe.gov.cn/srcsite/A05/s7505/201612/t20161230_293528.html), [2017 No.01225](http://www.moe.gov.cn/srcsite/A05/s7505/201711/t20171108_318697.html)). (**Top 2%**)| 
 | *2015, 2016, 2017* | Yiyang Scholarship, BUPT. (**10 places per year in the whole BUPT wide**)|
 | *2017* | CCF Outstanding Undergraduate Award (OUA). (**About 100 places per year in the Nation wide**) [link](https://www.ccf.org.cn/Awards/Awards/2017-07-31/602612.shtml).
