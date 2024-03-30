@@ -2,10 +2,10 @@
 main:
 
   - title: "Education"
-    url: /#education-and-experience
+    url: /#education
 
   - title: "Publications"
-    url: /#publications    
+    url: /#selected-publications    
 
   - title: "Honors and Awards"
     url: /#honor-and-awards    
