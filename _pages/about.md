@@ -37,17 +37,17 @@ Selected Publications
 | **Scaling Laws For Dense Retrieval.**|   
 | :------ |   
 | Yan Fang, Jingtao Zhan, Qingyao Ai, Jiaxin Mao, Weihang Su, ***Jia Chen***, Yiqun Liu. |  
-| SIGIR 2024 (Full, , Acceptance Rate: 20.1%). [Preprint Version](https://arxiv.org/pdf/2403.18684.pdf). |  
+| SIGIR 2024 (Full, Acceptance Rate: 20.1%). [Preprint Version](https://arxiv.org/pdf/2403.18684.pdf). |  
 
 | **Capability-aware Prompt Reformulation Learning for Text-to-Image Generation.**|   
 | :------ |   
 | Jingtao Zhan, Qingyao Ai, Yiqun Liu, ***Jia Chen***, Shaoping Ma. |  
-| SIGIR 2024 (Full, , Acceptance Rate: 20.1%). To Appear. |  
+| SIGIR 2024 (Full, Acceptance Rate: 20.1%). To Appear. |  
 
 | **SAILER: Structure-aware Pre-trained Language Model for Legal Case Retrieval.**|   
 | :------ |   
 | Haitao Li, Qingyao Ai, ***Jia Chen***, Qian Dong, Yueyue Wu, Yiqun Liu, Chong Chen, Qi Tian. |  
-| SIGIR 2023 (Full, , Acceptance Rate: 20.1%). [Preprint Version](https://arxiv.org/pdf/2304.11370). |  
+| SIGIR 2023 (Full, Acceptance Rate: 20.1%). [Preprint Version](https://arxiv.org/pdf/2304.11370). |  
 
 | **THUIR at WSDM Cup 2023 Task 1: Unbiased Learning to Rank.**|   
 | :------ |   
