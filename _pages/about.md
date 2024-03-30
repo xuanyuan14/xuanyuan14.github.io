@@ -31,7 +31,7 @@ Experience
 | *07.2019-09.2019* | Visiting student, NExT++ Research Centre, National University of Singapore, Singapore. |
 
 
-Publications
+Selected Publications
 ======  
 | **Scaling Laws For Dense Retrieval.**|   
 | :------ |   
@@ -53,20 +53,10 @@ Publications
 | ***Jia Chen***, Haitao Li, Weihang Su, Qingyao Ai, Yiqun Liu. |  
 | WSDM Cup 2023 Task 1 (2/187 Teams). [Preprint Version](https://xuanyuan14.github.io/files/WSDM-Cup-23.pdf). [Certificate](https://xuanyuan14.github.io/files/WSDM_Cup_Second_Prize.pdf).|  
 
-| **Towards Better Web Search Performance: Pre-training, Fine-tuning and Learning to Rank.**|   
-| :------ |   
-| Haitao Li, ***Jia Chen***, Weihang Su, Qingyao Ai, Yiqun Liu. |  
-| WSDM Cup 2023 Task 2 (2/213 Teams). [Preprint Version](https://xuanyuan14.github.io/files/WSDM_CUP_pretrain.pdf)|  
-
 | **Axiomatically Regularized Pre-training for Ad hoc Search.**|  
 | :------ |  
 | ***Jia Chen***, Yiqun Liu, Yan Fang, Jiaxin Mao, Hui Fang, Shenghao Yang, Xiaohui Xie, Min Zhang, Shaoping Ma. |  
 | SIGIR 2022 (Full, Acceptance Rate: 20.3%). [Preprint Version](https://xuanyuan14.github.io/files/SIGIR22Chen.pdf)|  
-
-| **Overview of the NTCIR-16 Session Search (SS) Task.**|  
-| :------ |  
-| ***Jia Chen***, Weihao Wu, Jiaxin Mao, Beining Wang, Fan Zhang, Yiqun Liu. |  
-| NTCIR-16 (Overview paper). [Preprint Version](https://xuanyuan14.github.io/files/01-NTCIR16-OV-SS-ChenJ.pdf)|  
 
 | **Pre-training Methods in Information Retrieval.**|  
 | :------ |  
@@ -93,20 +83,10 @@ Publications
 | ***Jia Chen***, Jiaxin Mao, Yiqun Liu, Min Zhang, and Shaoping Ma. |
 | WSDM 2020 (Full, Acceptance Rate: 14.8%). [Preprint Version](https://xuanyuan14.github.io/files/WSDM20chen.pdf)|
 
-| **Beyond Sessions: Exploiting Hybrid Contextual Information for Web Search.** |
-| :------ |  
-| ***Jia Chen***. |
-| WSDM 2020 (Doctoral Consortium). [Preprint Version](https://xuanyuan14.github.io/files/WSDM20DCchen.pdf)|
-
 | **TianGong-ST: A New Dataset with Large-scale Refined Real-world Web Search Sessions.** |
 | :------ |  
 | ***Jia Chen***, Jiaxin Mao, Yiqun Liu, Min Zhang, and Shaoping Ma. |
 | CIKM 2019 (Short, Acceptance Rate: 21.3%). [Preprint Version](https://xuanyuan14.github.io/files/CIKM19chen.pdf)|
-  
-| **Improving Search Snippets in Context-aware Web Search Scenarios.** |
-| :------ |  
-| ***Jia Chen***, Jiaxin Mao, Yiqun Liu, Min Zhang, and Shaoping Ma. |
-| CCIR 2020 (Full). [Preprint Version](https://xuanyuan14.github.io/files/CCIR20chen.pdf)|
 
 | **Investigating Query Reformulation Behavior of Search Users.** |
 | :------ |  
@@ -118,10 +98,6 @@ Publications
 | ***Jia Chen***, Yiqun Liu, Cheng Luo, Jiaxin Mao, Min Zhang, and Shaoping Ma. |
 | AIRS 2018 (Full). [Preprint Version](https://xuanyuan14.github.io/files/JiaChen-AIRS2018.pdf)|
 
-| **THUIR at NTCIR-13 WWW Task.** |
-| :------ |  
-| Yukun Zheng, Cheng Luo, Weixuan Wu, ***Jia Chen***, Yiqun Liu, Huanbo Luan, Min Zhang, Shaoping Ma. |
-| NTCIR-13. [Preprint Version](https://xuanyuan14.github.io/files/NTCIR-13_paper_28.pdf)|
 
 Honor and Awards
 ======
