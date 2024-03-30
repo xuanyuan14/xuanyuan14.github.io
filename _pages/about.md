@@ -33,6 +33,15 @@ Experience
 
 Publications
 ======  
+| **Scaling Laws For Dense Retrieval.**|   
+| :------ |   
+| Yan Fang, Jingtao Zhan, Qingyao Ai, Jiaxin Mao, Weihang Su, ***Jia Chen***, Yiqun Liu. |  
+| SIGIR 2024 (Full, , Acceptance Rate: 20.1%). [Preprint Version](https://arxiv.org/pdf/2403.18684.pdf). |  
+
+| **Capability-aware Prompt Reformulation Learning for Text-to-Image Generation.**|   
+| :------ |   
+| Jingtao Zhan, Qingyao Ai, Yiqun Liu, ***Jia Chen***, Shaoping Ma. |  
+| SIGIR 2024 (Full, , Acceptance Rate: 20.1%). To Appear. |  
 
 | **SAILER: Structure-aware Pre-trained Language Model for Legal Case Retrieval.**|   
 | :------ |   
@@ -119,6 +128,7 @@ Honor and Awards
 
 | Year | Honor & Awards |
 | :------ | :------ |  
+| *2024* | Outstanding Doctoral Dissertation of Wu Wenjun Artificial Intelligence Science and Technology Award. [link](https://caai.cn/index.php?s=/home/article/detail/id/3539.html)|  
 | *2023* | Outstanding Graduate of Department of Computer Science and Technology, Tsinghua University.|  
 | *2020, 2021, 2022* | Overall Excellence Scholarship (First Prize), Tsinghua University.|  
 | *2022* | Longfor Academic Rising Star Scholarship, Tsinghua University.|  
@@ -126,7 +136,7 @@ Honor and Awards
 | *2019* | Overall Excellence Scholarship (Second Prize), Tsinghua University.| 
 | *2015, 2016, 2017* | National Scholarship ([2015 No.01214](http://www.moe.gov.cn/srcsite/A05/s7505/201601/t20160120_228481.html), [2016 No.01225](http://www.moe.gov.cn/srcsite/A05/s7505/201612/t20161230_293528.html), [2017 No.01225](http://www.moe.gov.cn/srcsite/A05/s7505/201711/t20171108_318697.html)). (**Top 2%**)| 
 | *2015, 2016, 2017* | Yiyang Scholarship, BUPT. (**10 places per year in the whole BUPT wide**)|
-| *2017* | CCF Outstanding Undergraduate Award (OUA). (**About 100 places per year in the Nation wide**) [link](https://www.ccf.org.cn/Awards/Awards/2017-07-31/602612.shtml).
+| *2017* | CCF Outstanding Undergraduate Award (OUA). (**About 100 places per year in the Nation wide**) [link](https://www.ccf.org.cn/Awards/Awards/2017-07-31/602612.shtml).|  
 | *2017* | Meritorious Winner (First Author), MCM/ICM 2017.|
 | *2016* | Honorable Mention (First Author), MCM/ICM 2016.|
 | *2016* | CCCC Group Programming Ladder Tournament, National Third Prize.|
