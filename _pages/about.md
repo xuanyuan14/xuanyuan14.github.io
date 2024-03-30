@@ -100,7 +100,7 @@ Selected Publications
 | AIRS 2018 (Full). [Preprint Version](https://xuanyuan14.github.io/files/JiaChen-AIRS2018.pdf)|
 
 
-Selected Honor and Awards
+Honor and Awards
 ======
 
 | Year | Honor & Awards |
