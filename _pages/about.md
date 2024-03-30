@@ -33,6 +33,7 @@ Experience
 
 Selected Publications
 ======  
+
 | **Scaling Laws For Dense Retrieval.**|   
 | :------ |   
 | Yan Fang, Jingtao Zhan, Qingyao Ai, Jiaxin Mao, Weihang Su, ***Jia Chen***, Yiqun Liu. |  
@@ -99,7 +100,7 @@ Selected Publications
 | AIRS 2018 (Full). [Preprint Version](https://xuanyuan14.github.io/files/JiaChen-AIRS2018.pdf)|
 
 
-Honor and Awards
+Selected Honor and Awards
 ======
 
 | Year | Honor & Awards |
@@ -109,13 +110,9 @@ Honor and Awards
 | *2020, 2021, 2022* | Overall Excellence Scholarship (First Prize), Tsinghua University.|  
 | *2022* | Longfor Academic Rising Star Scholarship, Tsinghua University.|  
 | *2021* | Social Work Excellence Scholarship, Tsinghua University.|
-| *2019* | Overall Excellence Scholarship (Second Prize), Tsinghua University.| 
 | *2015, 2016, 2017* | National Scholarship ([2015 No.01214](http://www.moe.gov.cn/srcsite/A05/s7505/201601/t20160120_228481.html), [2016 No.01225](http://www.moe.gov.cn/srcsite/A05/s7505/201612/t20161230_293528.html), [2017 No.01225](http://www.moe.gov.cn/srcsite/A05/s7505/201711/t20171108_318697.html)). (**Top 2%**)| 
-| *2015, 2016, 2017* | Yiyang Scholarship, BUPT. (**10 places per year in the whole BUPT wide**)|
 | *2017* | CCF Outstanding Undergraduate Award (OUA). (**About 100 places per year in the Nation wide**) [link](https://www.ccf.org.cn/Awards/Awards/2017-07-31/602612.shtml).|  
 | *2017* | Meritorious Winner (First Author), MCM/ICM 2017.|
-| *2016* | Honorable Mention (First Author), MCM/ICM 2016.|
-| *2016* | CCCC Group Programming Ladder Tournament, National Third Prize.|
 | *2015* | Merit Student, Beijing.|
 
 More
