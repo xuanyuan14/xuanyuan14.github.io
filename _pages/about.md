@@ -42,7 +42,7 @@ Selected Publications
 | **Capability-aware Prompt Reformulation Learning for Text-to-Image Generation.**|   
 | :------ |   
 | Jingtao Zhan, Qingyao Ai, Yiqun Liu, ***Jia Chen***, Shaoping Ma. |  
-| SIGIR 2024 (Full, Acceptance Rate: 20.1%). To Appear. |  
+| SIGIR 2024 (Full, Acceptance Rate: 20.1%). [Preprint Version](https://arxiv.org/pdf/2403.19716.pdf). |  
 
 | **SAILER: Structure-aware Pre-trained Language Model for Legal Case Retrieval.**|   
 | :------ |   
