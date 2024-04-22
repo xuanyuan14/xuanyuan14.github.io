@@ -15,7 +15,7 @@ Education
 
 | Year | Education |
 | :------ | :------ | 
-| *08.2018-06.2023* | Ph.D., Department of Computer Science and Technology, Tsinghua University, China. |
+| *08.2018-06.2023* | Ph.D., Department of Computer Science and Technology, Tsinghua University, China. ([Thesis](https://xuanyuan14.github.io/files/thuthesis-JiaChen_compressed.pdf))|  
 | *09.2014-06.2018* | B.E., School of Computer Science, Beijing University of Posts and Telecommunications, China. |
 
 Experience
