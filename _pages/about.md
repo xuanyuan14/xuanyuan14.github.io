@@ -107,6 +107,7 @@ Honor and Awards
 | :------ | :------ |  
 | *2024* | Outstanding Doctoral Dissertation of Wu Wenjun Artificial Intelligence Science and Technology Award. [link](https://caai.cn/index.php?s=/home/article/detail/id/3539.html)|  
 | *2023* | Outstanding Graduate of Department of Computer Science and Technology, Tsinghua University.|  
+| *2023* | WSDM Cup 2023: Pre-training for Web Search & Unbiased Learning to Rank, Global Runner-up🥈, ACM. [Certificate](https://xuanyuan14.github.io/files/WSDM_Cup_Second_Prize.pdf)|  
 | *2020, 2021, 2022* | Overall Excellence Scholarship (First Prize), Tsinghua University.|  
 | *2022* | Longfor Academic Rising Star Scholarship, Tsinghua University.|  
 | *2021* | Social Work Excellence Scholarship, Tsinghua University.|
