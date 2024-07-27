@@ -37,7 +37,7 @@ Selected Publications
 | **Scaling Laws For Dense Retrieval.**|   
 | :------ |   
 | Yan Fang, Jingtao Zhan, Qingyao Ai, Jiaxin Mao, Weihang Su, ***Jia Chen***, Yiqun Liu. |  
-| SIGIR 2024 (Full, Acceptance Rate: 20.1%). [Preprint Version](https://arxiv.org/pdf/2403.18684.pdf). |  
+| SIGIR 2024 (Full, Acceptance Rate: 20.1%, `**Best Paper Award**`). [Preprint Version](https://arxiv.org/pdf/2403.18684.pdf). |  
 
 | **Capability-aware Prompt Reformulation Learning for Text-to-Image Generation.**|   
 | :------ |   
