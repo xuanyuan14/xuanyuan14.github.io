@@ -33,6 +33,15 @@ Experience
 
 Selected Publications
 ======  
+| **BLADE: Enhancing Black-box Large Language Models with Small Domain-Specific Models.**|   
+| :------ |   
+| Haitao Li, Qingyao Ai, ***Jia Chen***, Qian Dong, Zhijing Wu, Yiqun Liu. |  
+| AAAI 2025 (Full, Acceptance Rate: 23.4%). [Preprint Version](https://arxiv.org/pdf/2403.18365). | 
+
+| **DELTA: Pre-train a Discriminative Encoder for Legal Case Retrieval via Structural Word Alignment.**|   
+| :------ |   
+| Haitao Li, Qingyao Ai, Xinyan Han, ***Jia Chen***, Qian Dong, Yiqun Liu. |  
+| AAAI 2025 (Full, Acceptance Rate: 23.4%). [Preprint Version](https://arxiv.org/pdf/2403.18435). | 
 
 | **Scaling Laws For Dense Retrieval.**|   
 | :------ |   
@@ -43,6 +52,11 @@ Selected Publications
 | :------ |   
 | Jingtao Zhan, Qingyao Ai, Yiqun Liu, ***Jia Chen***, Shaoping Ma. |  
 | SIGIR 2024 (Full, Acceptance Rate: 20.1%). [Preprint Version](https://arxiv.org/pdf/2403.19716.pdf). |  
+
+| **Wikiformer: Pre-training with structured information of wikipedia for ad-hoc retrieval.**|   
+| :------ |   
+| Weihang Su, Qingyao Ai, Xiangsheng Li, ***Jia Chen***, Yiqun Liu, Xiaolong Wu, Shengluan Hou. |  
+| AAAI 2024 (Full, Acceptance Rate: 23.8%). [Preprint Version](https://ojs.aaai.org/index.php/AAAI/article/view/29869/31516). | 
 
 | **SAILER: Structure-aware Pre-trained Language Model for Legal Case Retrieval.**|   
 | :------ |   
