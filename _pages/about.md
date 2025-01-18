@@ -121,7 +121,6 @@ Honor and Awards
 | Year | Honor & Awards |
 | :------ | :------ |  
 | *2024* | Influential Author of the Year, Xiaohongshu. |  
-| *2024* | SIGIR2024 Best Paper Award. |  
 | *2024* | Outstanding Doctoral Dissertation of Wu Wenjun Artificial Intelligence Science and Technology Award. [link](https://caai.cn/index.php?s=/home/article/detail/id/3539.html)|  
 | *2023* | Outstanding Graduate of Department of Computer Science and Technology, Tsinghua University.|  
 | *2023* | WSDM Cup 2023: Pre-training for Web Search & Unbiased Learning to Rank, Global Runner-up🥈. [link](https://xuanyuan14.github.io/files/WSDM_Cup_Second_Prize.pdf)|  
