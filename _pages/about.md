@@ -37,32 +37,32 @@ Selected Publications
 | **BLADE: Enhancing Black-box Large Language Models with Small Domain-Specific Models.**|   
 | :------ |   
 | Haitao Li, Qingyao Ai, ***Jia Chen***, Qian Dong, Zhijing Wu, Yiqun Liu. |  
-| AAAI 2025 (Full, Acceptance Rate: 23.4%). [Preprint Version](https://arxiv.org/pdf/2403.18365). | 
+| AAAI 2025 (Full Paper). [Preprint Version](https://arxiv.org/pdf/2403.18365). | 
 
 | **DELTA: Pre-train a Discriminative Encoder for Legal Case Retrieval via Structural Word Alignment.**|   
 | :------ |   
 | Haitao Li, Qingyao Ai, Xinyan Han, ***Jia Chen***, Qian Dong, Yiqun Liu. |  
-| AAAI 2025 (Full, Acceptance Rate: 23.4%). [Preprint Version](https://arxiv.org/pdf/2403.18435). | 
+| AAAI 2025 (Full Paper). [Preprint Version](https://arxiv.org/pdf/2403.18435). | 
 
 | **Scaling Laws For Dense Retrieval.**|   
 | :------ |   
 | Yan Fang, Jingtao Zhan, Qingyao Ai, Jiaxin Mao, Weihang Su, ***Jia Chen***, Yiqun Liu. |  
-| SIGIR 2024 (Full, Acceptance Rate: 20.1%, **<font color=red>Best Paper Award</font>**). [Preprint Version](https://arxiv.org/pdf/2403.18684.pdf). |  
+| SIGIR 2024 (Full Paper, **<font color=red>Best Paper Award</font>**). [Preprint Version](https://arxiv.org/pdf/2403.18684.pdf). |  
 
 | **Capability-aware Prompt Reformulation Learning for Text-to-Image Generation.**|   
 | :------ |   
 | Jingtao Zhan, Qingyao Ai, Yiqun Liu, ***Jia Chen***, Shaoping Ma. |  
-| SIGIR 2024 (Full, Acceptance Rate: 20.1%). [Preprint Version](https://arxiv.org/pdf/2403.19716.pdf). |  
+| SIGIR 2024 (Full Paper). [Preprint Version](https://arxiv.org/pdf/2403.19716.pdf). |  
 
 | **Wikiformer: Pre-training with structured information of wikipedia for ad-hoc retrieval.**|   
 | :------ |   
 | Weihang Su, Qingyao Ai, Xiangsheng Li, ***Jia Chen***, Yiqun Liu, Xiaolong Wu, Shengluan Hou. |  
-| AAAI 2024 (Full, Acceptance Rate: 23.8%). [Preprint Version](https://ojs.aaai.org/index.php/AAAI/article/view/29869/31516). | 
+| AAAI 2024 (Full Paper). [Preprint Version](https://ojs.aaai.org/index.php/AAAI/article/view/29869/31516). | 
 
 | **SAILER: Structure-aware Pre-trained Language Model for Legal Case Retrieval.**|   
 | :------ |   
 | Haitao Li, Qingyao Ai, ***Jia Chen***, Qian Dong, Yueyue Wu, Yiqun Liu, Chong Chen, Qi Tian. |  
-| SIGIR 2023 (Full, Acceptance Rate: 20.1%). [Preprint Version](https://arxiv.org/pdf/2304.11370). |  
+| SIGIR 2023 (Full paper). [Preprint Version](https://arxiv.org/pdf/2304.11370). |  
 
 | **THUIR at WSDM Cup 2023 Task 1: Unbiased Learning to Rank.**|   
 | :------ |   
@@ -72,7 +72,7 @@ Selected Publications
 | **Axiomatically Regularized Pre-training for Ad hoc Search.**|  
 | :------ |  
 | ***Jia Chen***, Yiqun Liu, Yan Fang, Jiaxin Mao, Hui Fang, Shenghao Yang, Xiaohui Xie, Min Zhang, Shaoping Ma. |  
-| SIGIR 2022 (Full, Acceptance Rate: 20.3%). [Preprint Version](https://xuanyuan14.github.io/files/SIGIR22Chen.pdf)|  
+| SIGIR 2022 (Full paper). [Preprint Version](https://xuanyuan14.github.io/files/SIGIR22Chen.pdf)|  
 
 | **Pre-training Methods in Information Retrieval.**|  
 | :------ |  
@@ -82,7 +82,7 @@ Selected Publications
 | **Incorporating Query Reformulating Behavior into Web Search Evaluation.**|
 | :------ |  
 | ***Jia Chen***, Yiqun Liu, Jiaxin Mao, Fan Zhang, Tetsuya Sakai, Weizhi Ma, Min Zhang, Shaoping Ma. |
-| CIKM 2021 (Full, Acceptance Rate: 21.7%). [Preprint Version](https://xuanyuan14.github.io/files/CIKM21chen.pdf)| 
+| CIKM 2021 (Full paper). [Preprint Version](https://xuanyuan14.github.io/files/CIKM21chen.pdf)| 
 
 | **A Hybrid Framework for Session Context Modeling.** |
 | :------ |  
@@ -92,27 +92,27 @@ Selected Publications
 | **Towards a Better Understanding of Query Reformulation Behavior in Web Search.** |
 | :------ |  
 | ***Jia Chen***, Jiaxin Mao, Yiqun Liu, Fan Zhang, Min Zhang, and Shaoping Ma. |
-| WWW 2021 (Full, Acceptance Rate: 20.6%). [Preprint Version](https://xuanyuan14.github.io/files/WWW21chen.pdf)|  
+| WWW 2021 (Full paper). [Preprint Version](https://xuanyuan14.github.io/files/WWW21chen.pdf)|  
 
 | **A Context-Aware Click Model for Web Search.** |
 | :------ |  
 | ***Jia Chen***, Jiaxin Mao, Yiqun Liu, Min Zhang, and Shaoping Ma. |
-| WSDM 2020 (Full, Acceptance Rate: 14.8%). [Preprint Version](https://xuanyuan14.github.io/files/WSDM20chen.pdf)|
+| WSDM 2020 (Full paper, Acceptance Rate: 14.8%). [Preprint Version](https://xuanyuan14.github.io/files/WSDM20chen.pdf)|
 
 | **TianGong-ST: A New Dataset with Large-scale Refined Real-world Web Search Sessions.** |
 | :------ |  
 | ***Jia Chen***, Jiaxin Mao, Yiqun Liu, Min Zhang, and Shaoping Ma. |
-| CIKM 2019 (Short, Acceptance Rate: 21.3%). [Preprint Version](https://xuanyuan14.github.io/files/CIKM19chen.pdf)|
+| CIKM 2019 (Short paper). [Preprint Version](https://xuanyuan14.github.io/files/CIKM19chen.pdf)|
 
 | **Investigating Query Reformulation Behavior of Search Users.** |
 | :------ |  
 | ***Jia Chen***, Jiaxin Mao, Yiqun Liu, Min Zhang, and Shaoping Ma. |
-| CCIR 2019 (Full). [Preprint Version](https://xuanyuan14.github.io/files/CCIR19chen.pdf)|
+| CCIR 2019 (Full paper). [Preprint Version](https://xuanyuan14.github.io/files/CCIR19chen.pdf)|
   
 | **Improving Session Search Performance with a Multi-MDP Model.** |
 | :------ |  
 | ***Jia Chen***, Yiqun Liu, Cheng Luo, Jiaxin Mao, Min Zhang, and Shaoping Ma. |
-| AIRS 2018 (Full). [Preprint Version](https://xuanyuan14.github.io/files/JiaChen-AIRS2018.pdf)|
+| AIRS 2018 (Full paper). [Preprint Version](https://xuanyuan14.github.io/files/JiaChen-AIRS2018.pdf)|
 
 
 Honor and Awards
