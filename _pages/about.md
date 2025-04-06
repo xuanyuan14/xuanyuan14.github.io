@@ -37,7 +37,7 @@ Selected Publications
 | **Qilin: A Multimodal Information Retrieval Dataset with APP-level User Sessions.**|   
 | :------ |   
 | ***Jia Chen****, Qian Dong*, Haitao Li, Xiaohui He, Yan Gao, Shaosheng Cao, Yi Wu, Ping Yang, Chen Xu, Yao Hu, Qingyao Ai, Yiqun Liu. |  
-| SIGIR 2025 (Resource Paper). [Preprint Version](https://arxiv.org/pdf/2503.00501). |  
+| SIGIR 2025 (Resource Paper). [Preprint Version](https://xuanyuan14.github.io/files/SIGIR25Chen.pdf). |  
 
 | **Towards Better Evaluating Multi-query Sessions: A Measure Based on the Theory of Planned Behavior.**|   
 | :------ |   
