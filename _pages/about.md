@@ -39,7 +39,7 @@ Selected Publications
 | ***Jia Chen***<sup>*</sup>, Qian Dong<sup>*</sup>, Haitao Li, Xiaohui He, Yan Gao, Shaosheng Cao, Yi Wu, Ping Yang, Chen Xu, Yao Hu, Qingyao Ai, Yiqun Liu. |  
 | SIGIR 2025 (Full Paper, Resource Track). [Preprint Version](https://xuanyuan14.github.io/files/SIGIR25Chen.pdf). |  
 
-| **Towards Better Evaluating Multi-query Sessions: A Measure Based on the Theory of Planned Behavior.**|   
+| **Towards Better Evaluating Multi-Query Sessions: A Measure Based on the Theory of Planned Behavior.**|   
 | :------ |   
 | Wenbo Zhang, Fan Zhang, ***Jia Chen*** and Wei Lu. |  
 | SIGIR 2025 (Full Paper). To Appear. |
