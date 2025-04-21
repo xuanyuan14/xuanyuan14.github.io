@@ -42,7 +42,12 @@ Selected Publications
 | **Towards Better Evaluating Multi-Query Sessions: A Measure Based on the Theory of Planned Behavior.**|   
 | :------ |   
 | Wenbo Zhang, Fan Zhang, ***Jia Chen*** and Wei Lu. |  
-| SIGIR 2025 (Full Paper). To Appear. |
+| SIGIR 2025 (Full Paper). To Appear. |  
+
+| **PaRT: Enhancing Proactive Social Chatbots with Personalized Real-Time Retrieval.**|   
+| :------ |   
+| Zihan Niu, Zheyong Xie, Shaosheng Cao, Chonggang Lu, Zheyu Ye, Tong Xu, Zuozhu Liu, Yan Gao, ***Jia Chen***, Zhe Xu, Yi Wu and Yao Hu. |  
+| SIGIR 2025 (Industry Track). To Appear. |  
 
 | **BLADE: Enhancing Black-box Large Language Models with Small Domain-Specific Models.**|   
 | :------ |   
