@@ -150,8 +150,9 @@ Honor and Awards
 More
 ======  
 During 2022-2023, I have received special offers from Kwai (快Star), Baidu (AIDU), Tencent (技术大咖), Xiaohongshu (RedStar), and etc. As a result, I will be working at Xiaohongshu (Shuxing Information Technology Beijing Co, Ltd) from July 2023!  
-My hobbies mainly focus on popular music, comic and animation (e.g., Naruto, Inuyasha, Saint Seiya, A Certain Scientific Railgun, Demon Slayer, Detective Conan, Howl's Moving Castle, Digimon Adventure, Pokemon, etc).  
-Everybody loves Misaka Mikoto, Uchiha Itachi, Kikyo and Sesshoumaru! ⚡️  
+
+My hobbies mainly focus on popular music, comic and animation (e.g., Naruto, Inuyasha, Saint Seiya, A Certain Scientific Railgun, Demon Slayer, Detective Conan, Howl's Moving Castle, Digimon Adventure, Pokemon, etc). Everybody loves Misaka Mikoto, Uchiha Itachi, Kikyo and Sesshoumaru! ⚡️  
+
 I am also a S♡NE, a die-hard fan of TAEYEON. 🦋
 
 
