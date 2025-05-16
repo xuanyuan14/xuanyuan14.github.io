@@ -34,6 +34,12 @@ Experience
 Selected Publications
 ======  
 
+| **SimRACG: A Simple Retrieval-Augmented Code Generation Paradigm.**|   
+| :------ |   
+| Qian Dong, ***Jia Chen***, Qingyao Ai, Hongning Wang, Haitao Li, Yi Wu, Yao Hu, Yiqun Liu, Shaoping Ma. |  
+| ACL 2025 Findings (Full Paper). To Appear. |  
+
+
 | **Qilin: A Multimodal Information Retrieval Dataset with APP-level User Sessions.**|   
 | :------ |   
 | ***Jia Chen***<sup>*</sup>, Qian Dong<sup>*</sup>, Haitao Li, Xiaohui He, Yan Gao, Shaosheng Cao, Yi Wu, Ping Yang, Chen Xu, Yao Hu, Qingyao Ai, Yiqun Liu. |  
