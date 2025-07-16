@@ -42,7 +42,7 @@ Selected Publications
 | **Towards Better Evaluating Multi-Query Sessions: A Measure Based on the Theory of Planned Behavior.**|   
 | :------ |   
 | Wenbo Zhang, Fan Zhang, ***Jia Chen*** and Wei Lu. |  
-| SIGIR 2025 (Full Paper, **<font color=red>Best Paper Honorable Mention Award</font>**)). [Preprint Version]([https://arxiv.org/pdf/2403.18435](https://dl.acm.org/doi/pdf/10.1145/3726302.3730096)). |  
+| SIGIR 2025 (Full Paper, **<font color=red>Best Paper Honorable Mention Award</font>**). [Preprint Version]([https://arxiv.org/pdf/2403.18435](https://dl.acm.org/doi/pdf/10.1145/3726302.3730096)). |  
 
 | **PaRT: Enhancing Proactive Social Chatbots with Personalized Real-Time Retrieval.**|   
 | :------ |   
