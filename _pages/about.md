@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am now a search algorithm engineer at Xiaohongshu (Beijing). Before that, I received my Ph.D. degree from [THUIR](http://www.thuir.cn/), Department of Computer Science and Technology in Tsinghua University, under the supervision of Prof. [Yiqun Liu](http://www.thuir.cn/group/~YQLiu/). My major research interests are about interactive search, pre-trained language models, and etc. I have also served as a PC member for top-tier IR/NLP conferences/journals such as SIGIR, ACL, WSDM, TOIS, EMNLP, COLING and so on.
+I am now leading the Search (CTR) Prediction team at Xiaohongshu (Beijing). Before that, I received my Ph.D. degree from [THUIR](http://www.thuir.cn/), Department of Computer Science and Technology in Tsinghua University, under the supervision of Prof. [Yiqun Liu](http://www.thuir.cn/group/~YQLiu/). My major research interests are about interactive search, pre-trained language models, and etc. I have also served as a PC member for top-tier IR/NLP conferences/journals such as SIGIR, ACL, WSDM, TOIS, EMNLP, COLING and so on.
 
 Education
 ======
@@ -23,7 +23,7 @@ Experience
 
 | Year | Experience |
 | :------ | :------ |  
-| *07.2023-present* | Xiaohongshu (Beijing), Community Search Division, Algorithm Engineer. |  
+| *07.2023-present* | Xiaohongshu (Beijing), Community Search Division, Senior Algorithm Engineer. |  
 | *07.2023-12.2023* | NTCIR-17 Session Search 2 (SS-2) Track, Track Chair. |  
 | *06.2022-09.2022* | Alibaba Group (Hangzhou), Big Taobao Search Division, Internship. |
 | *04.2021-06.2022* | Main organizer of the [NTCIR-16 Session Search (SS) task](http://www.thuir.cn/session-search/).|
