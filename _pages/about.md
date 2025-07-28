@@ -33,6 +33,10 @@ Experience
 
 Selected Publications
 ======  
+| **SelfRACG: Enabling LLMs to Self-Express and Retrieve for Code Generation.**|   
+| :------ |   
+| Qian Dong, ***Jia Chen***, Qingyao Ai, Hongning Wang, Haitao Li, Yi Wu, Yao Hu, Yiqun Liu, Shaoping Ma. |  
+| EMNLP 2025 (Full Paper). [Preprint Version](https://arxiv.org/pdf/2507.19033). |  
 
 | **Qilin: A Multimodal Information Retrieval Dataset with APP-level User Sessions.**|   
 | :------ |   
