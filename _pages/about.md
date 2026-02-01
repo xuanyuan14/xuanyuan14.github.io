@@ -158,7 +158,11 @@ During 2022-2023, I have received special offers from Kwai (快Star), Baidu (AID
 
 My hobbies mainly focus on popular music, comic and animation (e.g., Naruto, Inuyasha, Saint Seiya, A Certain Scientific Railgun, Demon Slayer, Detective Conan, Howl's Moving Castle, Digimon Adventure, Pokemon, etc). Everybody loves Misaka Mikoto, Uchiha Itachi, Kikyo and Sesshoumaru! ⚡️  
 
-I am also a S♡NE, a die-hard fan of TAEYEON. 🦋
+I am also a S♡NE, a die-hard fan of TAEYEON. 🦋  
+
+Currently deep in N‘Emi & N'Bonnie. 🦋
+
+BTW, I am an INFP-A. 🦋😉
 
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=bju4B0QMEhcfQpVMAV_s8aJSfw7oX9YpdHi3zjXMeOs&cmn=f00b34'></script>
