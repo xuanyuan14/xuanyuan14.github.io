@@ -160,7 +160,7 @@ My hobbies mainly focus on popular music, comic and animation (e.g., Naruto, Inu
 
 I am also a S♡NE, a die-hard fan of TAEYEON. 🦋  
 
-Currently deep in N‘Emi & N'Bonnie. 🦋
+Currently deep in N'Emi & N'Bonnie. 🦋
 
 BTW, I am an INFP-A. 🦋😉
 
