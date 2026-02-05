@@ -24,7 +24,7 @@ Experience
 | Year | Experience |
 | :------ | :------ |  
 | *02.2026-present* | Meituan Keeta (Beijing), Recommendation & Search Division, Senior Algorithm Expert. | 
-| *07.2023-01.2026* | Xiaohongshu (Beijing), Algorithm Expert (POC of the Search (CTR) Prediction team). |  
+| *07.2023-01.2026* | Xiaohongshu (Beijing), Algorithm Expert, POC of the Search (CTR) Prediction team). |  
 | *07.2023-12.2023* | NTCIR-17 Session Search 2 (SS-2) Track, Track Chair. |  
 | *06.2022-09.2022* | Alibaba Group (Hangzhou), Big Taobao Search Division, Internship. |
 | *04.2021-06.2022* | Main organizer of the [NTCIR-16 Session Search (SS) task](http://www.thuir.cn/session-search/).|
