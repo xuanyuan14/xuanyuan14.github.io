@@ -125,16 +125,6 @@ Selected Publications
 | ***Jia Chen***, Jiaxin Mao, Yiqun Liu, Min Zhang, and Shaoping Ma. |
 | CIKM 2019 (Short paper). [Preprint Version](https://xuanyuan14.github.io/files/CIKM19chen.pdf)|
 
-| **Investigating Query Reformulation Behavior of Search Users.** |
-| :------ |  
-| ***Jia Chen***, Jiaxin Mao, Yiqun Liu, Min Zhang, and Shaoping Ma. |
-| CCIR 2019 (Full paper). [Preprint Version](https://xuanyuan14.github.io/files/CCIR19chen.pdf)|
-  
-| **Improving Session Search Performance with a Multi-MDP Model.** |
-| :------ |  
-| ***Jia Chen***, Yiqun Liu, Cheng Luo, Jiaxin Mao, Min Zhang, and Shaoping Ma. |
-| AIRS 2018 (Full paper). [Preprint Version](https://xuanyuan14.github.io/files/JiaChen-AIRS2018.pdf)|
-
 
 Honor and Awards
 ======
