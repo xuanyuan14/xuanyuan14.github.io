@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently leading the search algorithm team at Meituan Keeta. Before that, I worked as the POC of CTR Prediction team at Xiaohongshu Search Division. Earlier, I received my Ph.D. degree from [THUIR](http://www.thuir.cn/), Department of Computer Science and Technology in Tsinghua University, under the supervision of Prof. [Yiqun Liu](http://www.thuir.cn/group/~YQLiu/). My major research interests are about interactive search, pre-trained language models, and etc. I have also served as a PC member for top-tier IR/NLP conferences/journals such as SIGIR/SIGIR-AP, WSDM, ACL, AAAI, TOIS, EMNLP, COLING and so on.
+I am currently leading the search algorithm team at Meituan Keeta. Before that, I worked as the POC of CTR Prediction team at Xiaohongshu Search Division. Earlier, I received my Ph.D. degree from [THUIR](http://www.thuir.cn/), Department of Computer Science and Technology in Tsinghua University, under the supervision of Prof. [Yiqun Liu](http://www.thuir.cn/group/~YQLiu/). My major research interests are about interactive search, pre-trained language models, and etc. I have also served as a PC member for top-tier IR/NLP conferences/journals such as SIGIR/SIGIR-AP, WWW, WSDM, ACL, AAAI, TOIS, EMNLP, COLING and so on.
 
 Education
 ======
